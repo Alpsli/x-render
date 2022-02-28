@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{OH0R:function(t,n,o){"use strict";o.r(n),o.d(n,"delay",function(){return s}),o.d(n,"fakeApi",function(){return r});var s=u=>new Promise(e=>setTimeout(e,u)),r=(u,e)=>(console.group("request:",u),console.log("params:",e),console.groupEnd(),s(500))}}]);
